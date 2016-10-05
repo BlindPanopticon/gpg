@@ -1,1 +1,1 @@
-gpg
+public gpg keys
